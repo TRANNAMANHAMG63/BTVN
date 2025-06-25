@@ -5,7 +5,6 @@
 the array.*/
 #include<stdio.h>
 int main() {
-    //  Inputs an integer `n` (1 ≤ n ≤ 100) and an array of `n` integers.
     int n;
     int arr[100];
     scanf("%d", &n);
